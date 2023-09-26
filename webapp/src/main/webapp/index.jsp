@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 
-    <font color="blue"><h1>New user Register for Prabha Channel</h1></font>
+    <font color="sky blue"><h1>Welcome everyone to Register for Prabha Channel</h1></font>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
